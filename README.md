@@ -1,1 +1,2 @@
 # githubtraining
+ギットテスト1回
